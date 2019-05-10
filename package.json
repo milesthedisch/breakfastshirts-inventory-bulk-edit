@@ -1,0 +1,16 @@
+{
+  "name": "shopify-private-apps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bulk-edit-inventory.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "lodash.flatten": "^4.4.0",
+    "shopify-api-node": "^2.19.1"
+  }
+}
